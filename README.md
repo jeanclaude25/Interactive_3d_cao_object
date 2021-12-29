@@ -13,8 +13,6 @@ So I had to create some addons like [Clean mesh](https://github.com/jeanclaude25
 
 Today, I know better how to answer industrial proposals thanks to this work.
 
-Translated with www.DeepL.com/Translator (free version)
-
 [Try this app](https://www.jeanclaudestephane.com/virtual_visit/version/last/)
 
 
