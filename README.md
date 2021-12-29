@@ -11,11 +11,11 @@ On the other hand, in webGl you only display what you see and two identical topo
 
 So I had to create some addons like [Clean mesh](https://github.com/jeanclaude25/Clean_meshes_Blender2.9) or InstanceToempty to make this possible.
 
-Today, I know better how to answer industrial proposals thanks to this work.
+Today, I know better how to answer industrial proposals with minimal manual work, thanks to this work.
 
 Translated with www.DeepL.com/Translator (free version)
 
-[Try this app](https://www.jeanclaudestephane.com/virtual_visit/version/last/)
+[Try this app](https://www.jeanclaudestephane.com/projects/webgl/3/index.html)
 
 
 
