@@ -13,9 +13,13 @@ So I had to create some addons like [Clean mesh](https://github.com/jeanclaude25
 
 Today, I know better how to answer industrial proposals with minimal manual work, thanks to this work.
 
+<<<<<<< HEAD
 Translated with www.DeepL.com/Translator (free version)
 
 [Try this app](https://www.jeanclaudestephane.com/projects/webgl/3/index.html)
+=======
+[Try this app](https://www.jeanclaudestephane.com/virtual_visit/version/last/)
+>>>>>>> f54f36e61289da92f68d841b08fdab365440498c
 
 
 
