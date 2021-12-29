@@ -1,15 +1,22 @@
-# Clean_meshes_Blender2.9
-Clean complex and dirty meshes in blender 2.9
+# CAO 3d Interactive object
 
-![preview](./cleanMeshes.jpg)
+![Design preview](./design/screen.jpg)
 
 ## Welcome! 👋
 
-As for you have a factory object that to a very dirty topology.
-In many large numbers you will not be able to clean them by hand.
-This script is there for that.
+I created this application in order to better understand the needs of industrial companies and thus create a workflow allowing me to quickly make efficient visualizations from 3d objects provided by factories.
 
-You can buy it here: https://gumroad.com/products/KUMjG
-Or you can take it for free on this github.
+The 3d files coming out of factories are very complex, have millions of polygons, duplicate and triple 3d parts.
+On the other hand, in webGl you only display what you see and two identical topologies must be instances.
 
-**Good day !** 🚀
+So I had to create some addons like [Clean mesh](https://github.com/jeanclaude25/Clean_meshes_Blender2.9) or InstanceToempty to make this possible.
+
+Today, I know better how to answer industrial proposals thanks to this work.
+
+Translated with www.DeepL.com/Translator (free version)
+
+[Try this app](https://www.jeanclaudestephane.com/virtual_visit/version/last/)
+
+
+
+**Have fun !** 🚀
